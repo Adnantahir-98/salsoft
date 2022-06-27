@@ -1,0 +1,14 @@
+body {
+    margin: 0;
+    font-family: 'Montserrat', sans-serif;
+    background: rgba(33, 37, 41,0.987);
+    color: #fff;
+}
+
+.navbar{
+    box-shadow: 0 2px 2px 3px rgba(19, 18, 18, 0.185);
+}
+
+.p, i{
+    cursor: pointer;
+}
